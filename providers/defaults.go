@@ -239,7 +239,7 @@ var DefaultProviders Providers = map[string]*Provider{
 				{
 					Name:  "nmap",
 					Use:   "nmap",
-					Short: "a nmap network scanner",
+					Short: "a Nmap network scanner",
 				},
 			},
 		},
